@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/8x2gYq2.png" alt="VoxBot Banner" width="800"/>
+  <img src="DIY robot with glowing eyes.png" width="800"/>
   <h1>Nova: Expressive Voice-Controlled Automaton</h1>
   <p>An Offline Voice-Activated Robot with Dynamic OLED Facial Expressions</p>
 
