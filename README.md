@@ -44,6 +44,7 @@ The robot features a "Digital Soul" powered by a **SH1106 OLED display**, which 
 | Normal | Happy/Dance | Sleeping | Sad |
 | :---: | :---: | :---: | :---: |
 | `[  ][  ]` | `(^)(^)` | `z z Z` | `( T )( T )` |
+<img src="DIY robot with glowing eyes.png" width="800"/>
 
 ---
 
