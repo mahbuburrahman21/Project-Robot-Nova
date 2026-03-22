@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="DIY robot with glowing eyes.png" width="800"/>
+  <img src="Futuristic robot in glowing tech space.png" width="800"/>
   <h1>Nova: Expressive Voice-Controlled Automaton</h1>
   <p>An Offline Voice-Activated Robot with Dynamic OLED Facial Expressions</p>
 
